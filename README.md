@@ -1,8 +1,10 @@
-# Polyphony Music Generator
+# Polyphony Music Generator 2.1 Eenhanced Edition
 
 AI-powered polyphonic music generation system based on Google Magenta.js - Pure frontend implementation
 
-🔗 **Live Demo**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
+🔗 **Live Demo**: https://polyphony-generator-web-07.vercel.app/  
+
+📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-07
 
 ---
 
@@ -212,7 +214,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 **Polyphony Music Generator** - 基于 Google Magenta.js 的 AI 复调音乐生成系统
 
-🔗 **在线试用**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
+🔗 **在线试用**: https://polyphony-generator-web-07.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-07
 
 ### 🎵 功能特点
 
@@ -410,7 +412,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 **Polyphony Music Generator** - Google Magenta.js に基づく AI 対位法音楽生成システム
 
-🔗 **オンラインデモ**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
+🔗 **オンラインデモ**: https://polyphony-generator-web-07.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-07
 
 ### 🎵 特徴
 
